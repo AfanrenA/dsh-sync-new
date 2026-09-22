@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_draw_item_tooltip",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_draw_item_tooltip",
+  "parent":{
+    "name":"组件UI",
+    "path":"folders/脚本组/UI/组件UI.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

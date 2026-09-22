@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_weapon_try_attack",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_weapon_try_attack",
+  "parent":{
+    "name":"武器攻击统一入口",
+    "path":"folders/脚本组/战斗/武器攻击统一入口.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

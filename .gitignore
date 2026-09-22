@@ -1,0 +1,78 @@
+# ============================================================
+# project13_v4 .gitignore
+# 目标：只忽略"生成物/垃圾/本机配置"，资源文件全部同步
+# ============================================================
+
+# ===== ★ 重要：resource_order 必须同步！=====
+# 它记录对象树/脚本树的分组顺序，忽略会导致另一台电脑分组丢失
+!project13_v4.resource_order
+
+# ===== GameMaker 导出包 / 备份（生成物，不同步）=====
+*.yyz
+*.gmz
+*.zip
+*.bak
+*.autosave
+
+# ===== GameMaker 旧版备份文件（字体等资源的 .old 冗余）=====
+*.old
+*.old.yy
+*.old.png
+
+# ===== GMRT 构建目录 =====
+Build/
+
+# ===== ★ 注意：spr_room_test 必须同步，不要忽略 =====
+# 理由：room_test 是唯一的房间，且引用了这个精灵。
+#       忽略它会导致另一台电脑打开工程报"找不到资源"。
+#       它占 15 MB，但那不是问题（工程总体积才 16.8 MB）。
+# 如果将来想瘦身：在 GM 里把 room_test 的背景层换成别的精灵，
+#       或删掉这个背景引用，再删精灵。
+
+# ===== 临时文件 / 缓存 / 日志 =====
+*.tmp
+*.log
+/cache/
+/temp/
+/Configs/
+
+# ===== IDE / 编辑器 =====
+.vscode/
+.idea/
+*.user
+*.sln
+
+# ===== Windows =====
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.stackdump
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+# ===== macOS =====
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# ============================================================
+# 以下必须同步，不要加进忽略列表：
+#   project13_v4.yyp              工程主文件
+#   project13_v4.resource_order   资源树顺序（对象分组依赖）
+#   *.yy / *.gml                  资源定义与代码
+#   sprites/ fonts/ objects/ scripts/ rooms/ options/  全部资源
+#   DEVLOG.md                     跨会话交接文档
+# ============================================================

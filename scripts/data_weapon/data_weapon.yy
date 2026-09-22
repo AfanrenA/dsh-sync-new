@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"data_weapon",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"data_weapon",
+  "parent":{
+    "name":"武器数据表",
+    "path":"folders/脚本组/数据表/武器数据表.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

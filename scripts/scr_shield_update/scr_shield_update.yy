@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_shield_update",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_shield_update",
+  "parent":{
+    "name":"护盾",
+    "path":"folders/脚本组/战斗/护盾.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

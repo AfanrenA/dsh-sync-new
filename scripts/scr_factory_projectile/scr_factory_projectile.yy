@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_factory_projectile",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_factory_projectile",
+  "parent":{
+    "name":"飞行物",
+    "path":"folders/脚本组/工厂/飞行物.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

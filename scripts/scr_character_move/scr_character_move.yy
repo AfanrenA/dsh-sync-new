@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_character_move",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_character_move",
+  "parent":{
+    "name":"角色",
+    "path":"folders/脚本组/角色.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

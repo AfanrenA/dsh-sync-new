@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_draw_relic_hud",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_draw_relic_hud",
+  "parent":{
+    "name":"全局UI",
+    "path":"folders/脚本组/UI/全局UI.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

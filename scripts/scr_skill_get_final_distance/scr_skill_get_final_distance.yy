@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_skill_get_final_distance",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_skill_get_final_distance",
+  "parent":{
+    "name":"技能",
+    "path":"folders/脚本组/武技/技能.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

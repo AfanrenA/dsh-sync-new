@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"data_agility_get_quality_mult",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"data_agility_get_quality_mult",
+  "parent":{
+    "name":"数据辅助",
+    "path":"folders/脚本组/通用工具/数据辅助.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

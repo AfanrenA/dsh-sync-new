@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_get_aim_direction",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_get_aim_direction",
+  "parent":{
+    "name":"索敌",
+    "path":"folders/脚本组/战斗/索敌.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
