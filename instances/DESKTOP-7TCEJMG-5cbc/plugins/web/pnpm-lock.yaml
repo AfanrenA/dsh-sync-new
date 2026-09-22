@@ -1,0 +1,77 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: false
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    dependencies:
+      dsh-github-sync:
+        specifier: github:minghuo/dsh-github-sync
+        version: https://codeload.github.com/minghuo/dsh-github-sync/tar.gz/905b02c4cc6cc987b7583be2070eed71d57aa998
+      dsh-sessions-manager:
+        specifier: github:TOBYCAI/dsh-sessions-manager
+        version: https://codeload.github.com/TOBYCAI/dsh-sessions-manager/tar.gz/160a62d6f172275f6869a362c5bdd7efd13b4424
+      dsh-unarchive:
+        specifier: ^0.1.9
+        version: 0.1.9(@deepseek-ai/schemastery@3.18.2)
+
+packages:
+
+  '@deepseek-ai/cosmokit@1.8.3':
+    resolution: {integrity: sha512-qBo+ronVM6Eu2WNVJXi8JcMiqZ19T9BRIpV+5qJUFPXjGH/Z0QKcQMC/IZJ7L394YTOtJgcovbk9qP0w2GsBXQ==}
+
+  '@deepseek-ai/schemastery@3.18.2':
+    resolution: {integrity: sha512-njDtZsznjYxok7KLLlHOPyuv2efdWVbSflAHgztSfbMsg+CVraEoRe2DjOCgClYv3ZCSm7WXoaUkbB/+RY7tWQ==}
+
+  '@standard-schema/spec@1.1.0':
+    resolution: {integrity: sha512-l2aFy5jALhniG5HgqrD6jXLi/rUWrKvqN/qJx6yoJsgKhblVd+iqqU4RCXavm/jPityDo5TCvKMnpjKnOriy0w==}
+
+  dsh-github-sync@https://codeload.github.com/minghuo/dsh-github-sync/tar.gz/905b02c4cc6cc987b7583be2070eed71d57aa998:
+    resolution: {gitHosted: true, integrity: sha512-rD65A5E3XgfMYwWs+9JuAMmH1/jo+vgiZ5DEkzRXTOo70HeS9WYpLzrXlpvYw038fjUsySjothPJ9cZLHAYJkw==, tarball: https://codeload.github.com/minghuo/dsh-github-sync/tar.gz/905b02c4cc6cc987b7583be2070eed71d57aa998}
+    version: 0.4.3
+    engines: {node: '>=22.5'}
+
+  dsh-sessions-manager@https://codeload.github.com/TOBYCAI/dsh-sessions-manager/tar.gz/160a62d6f172275f6869a362c5bdd7efd13b4424:
+    resolution: {gitHosted: true, integrity: sha512-xR2IGkEkDjw4F/XYR4locLZkL1lcLnlmcj+bR0o9hl5zlOznsW+9D6fsDBTEVMn1cSiCIdcE7zHQ+XFuvbnokw==, tarball: https://codeload.github.com/TOBYCAI/dsh-sessions-manager/tar.gz/160a62d6f172275f6869a362c5bdd7efd13b4424}
+    version: 3.7.1
+    peerDependencies:
+      '@deepseek-ai/cordis': ^4.0.1
+      '@deepseek-ai/dsh-client-runtime': ^0.1.0-rc.6
+      '@deepseek-ai/dsh-client-ui-settings': ^0.1.0-rc.6
+      '@deepseek-ai/dsh-client-ui-slots': ^0.1.0-rc.6
+      '@deepseek-ai/dsh-host-webserver': ^0.1.0-rc.6
+      '@deepseek-ai/dsh-session-persistence-jsonl': ^0.1.0-rc.6
+      '@deepseek-ai/dsh-session-query': ^0.1.0-rc.6
+      '@deepseek-ai/dsh-storage-domain': ^0.1.0-rc.6
+      '@deepseek-ai/dsh-workspace': ^0.1.0-rc.6
+      react: ^18.2.0
+
+  dsh-unarchive@0.1.9:
+    resolution: {integrity: sha512-mKbAvQaIWnbJuXXbXV0I7iSR12mfslAxhE3919osXtcEQuKZHX4A4R2thdMU0rVw6And2yeyLVsxqxBhvzrN8Q==}
+    peerDependencies:
+      '@deepseek-ai/cordis': ^4.0.1
+      '@deepseek-ai/schemastery': ^3.18.1
+
+snapshots:
+
+  '@deepseek-ai/cosmokit@1.8.3': {}
+
+  '@deepseek-ai/schemastery@3.18.2':
+    dependencies:
+      '@deepseek-ai/cosmokit': 1.8.3
+      '@standard-schema/spec': 1.1.0
+
+  '@standard-schema/spec@1.1.0': {}
+
+  dsh-github-sync@https://codeload.github.com/minghuo/dsh-github-sync/tar.gz/905b02c4cc6cc987b7583be2070eed71d57aa998:
+    dependencies:
+      '@deepseek-ai/schemastery': 3.18.2
+
+  dsh-sessions-manager@https://codeload.github.com/TOBYCAI/dsh-sessions-manager/tar.gz/160a62d6f172275f6869a362c5bdd7efd13b4424: {}
+
+  dsh-unarchive@0.1.9(@deepseek-ai/schemastery@3.18.2):
+    dependencies:
+      '@deepseek-ai/schemastery': 3.18.2

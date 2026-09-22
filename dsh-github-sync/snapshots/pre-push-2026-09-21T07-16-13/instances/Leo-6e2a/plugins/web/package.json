@@ -1,0 +1,17 @@
+{
+  "name": "dsh-profile-web",
+  "private": true,
+  "dependencies": {
+    "dsh-github-sync": "link:C:\\Dev\\dsh-github-sync"
+  },
+  "dsh": {
+    "profile": {
+      "bundles": [
+        "@deepseek-ai/dsh-base",
+        "@deepseek-ai/dsh-web-app",
+        "dsh-github-sync"
+      ],
+      "patchReload": "live"
+    }
+  }
+}

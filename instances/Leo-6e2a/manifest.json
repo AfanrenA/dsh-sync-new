@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "instanceId": "Leo-6e2a",
+  "hostname": "Leo",
+  "platform": "win32",
+  "groups": {
+    "sessions": true,
+    "plugins": true,
+    "settings": false
+  },
+  "totals": {
+    "files": 6,
+    "bytes": 1071466,
+    "sessions": 2,
+    "sessionsBytes": 1070611,
+    "plugins": 4,
+    "pluginsBytes": 855,
+    "settings": 0,
+    "settingsBytes": 0
+  },
+  "skipped": [],
+  "workspaces": [
+    {
+      "key": "--D-project13_v4--",
+      "path": "D:\\project13_v4",
+      "pathIsExact": true,
+      "sessions": 2,
+      "bytes": 1070611
+    }
+  ]
+}
