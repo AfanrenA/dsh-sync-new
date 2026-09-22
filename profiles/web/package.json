@@ -1,0 +1,21 @@
+{
+  "name": "dsh-profile-web",
+  "private": true,
+  "dsh": {
+    "profile": {
+      "bundles": [
+        "@deepseek-ai/dsh-base",
+        "@deepseek-ai/dsh-web-app",
+        "dsh-unarchive",
+        "dsh-sessions-manager",
+        "dsh-sync-plugin"
+      ],
+      "patchReload": "live"
+    }
+  },
+  "dependencies": {
+    "dsh-sessions-manager": "github:TOBYCAI/dsh-sessions-manager",
+    "dsh-sync-plugin": "^0.12.4",
+    "dsh-unarchive": "^0.1.9"
+  }
+}

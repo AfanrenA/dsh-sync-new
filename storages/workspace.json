@@ -1,0 +1,26 @@
+{
+  "unit": {
+    "name": "workspace",
+    "version": 2
+  },
+  "global": {
+    "initialized": true,
+    "workspaceIds": [
+      "4af30ee4-d833-4721-9246-7d6ebb3ec744"
+    ],
+    "archivedSessionIds": []
+  },
+  "tables": {
+    "workspaces": {
+      "4af30ee4-d833-4721-9246-7d6ebb3ec744": {
+        "path": "D:\\project13_v4",
+        "title": "project13_v4",
+        "sessionIds": [
+          "session-ec4131d6-f274-43ab-8cfa-19b3fb07d5ab"
+        ],
+        "createdAt": "2026-09-22T06:04:11.736Z",
+        "updatedAt": "2026-09-22T06:04:11.788Z"
+      }
+    }
+  }
+}

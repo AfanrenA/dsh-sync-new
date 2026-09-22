@@ -1,0 +1,22 @@
+{
+  "format": 1,
+  "path": "profiles/web/package.json",
+  "fields": {
+    "dependencies.dsh-github-sync": {
+      "t": 2,
+      "actor": "77157d6c-1e09-47c7-9d83-035dcd013ebc"
+    },
+    "dependencies.dsh-sessions-manager": {
+      "t": 1,
+      "actor": "77157d6c-1e09-47c7-9d83-035dcd013ebc"
+    },
+    "dependencies.dsh-unarchive": {
+      "t": 1,
+      "actor": "77157d6c-1e09-47c7-9d83-035dcd013ebc"
+    },
+    "dsh.profile.bundles": {
+      "t": 2,
+      "actor": "77157d6c-1e09-47c7-9d83-035dcd013ebc"
+    }
+  }
+}

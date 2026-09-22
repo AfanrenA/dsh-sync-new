@@ -1,0 +1,5 @@
+{
+  "remote": "https://github.com/AfanrenA/dsh-sync-new.git",
+  "workspaceSync": true,
+  "autoRestartAfterRepair": true
+}

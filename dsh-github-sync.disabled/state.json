@@ -1,0 +1,84 @@
+{
+  "instanceId": "DESKTOP-7TCEJMG-5cbc",
+  "lastSyncAt": "2026-09-21T10:44:42.722Z",
+  "lastResult": {
+    "at": "2026-09-21T10:44:42.722Z",
+    "reason": "manual",
+    "durationMs": 12384,
+    "repo": "AfanrenA/dsh-sync",
+    "branch": "main",
+    "instanceId": "DESKTOP-7TCEJMG-5cbc",
+    "pushed": true,
+    "nothingToCommit": false,
+    "commit": "45abc2e1545d6e769587afec1337aa7650c661bf",
+    "created": 8,
+    "updated": 0,
+    "deleted": 0,
+    "unchanged": 0,
+    "skipped": [],
+    "bytes": 1223593,
+    "pr": null,
+    "groups": {
+      "sessions": {
+        "created": 3,
+        "updated": 0,
+        "deleted": 0,
+        "files": 3
+      },
+      "plugins": {
+        "created": 4,
+        "updated": 0,
+        "deleted": 0,
+        "files": 4
+      },
+      "settings": {
+        "created": 0,
+        "updated": 0,
+        "deleted": 0,
+        "files": 0
+      }
+    },
+    "pluginSuggestions": []
+  },
+  "history": [
+    {
+      "at": "2026-09-21T10:44:42.722Z",
+      "reason": "manual",
+      "durationMs": 12384,
+      "repo": "AfanrenA/dsh-sync",
+      "branch": "main",
+      "instanceId": "DESKTOP-7TCEJMG-5cbc",
+      "pushed": true,
+      "nothingToCommit": false,
+      "commit": "45abc2e1545d6e769587afec1337aa7650c661bf",
+      "created": 8,
+      "updated": 0,
+      "deleted": 0,
+      "unchanged": 0,
+      "skipped": [],
+      "bytes": 1223593,
+      "pr": null,
+      "groups": {
+        "sessions": {
+          "created": 3,
+          "updated": 0,
+          "deleted": 0,
+          "files": 3
+        },
+        "plugins": {
+          "created": 4,
+          "updated": 0,
+          "deleted": 0,
+          "files": 4
+        },
+        "settings": {
+          "created": 0,
+          "updated": 0,
+          "deleted": 0,
+          "files": 0
+        }
+      },
+      "pluginSuggestions": []
+    }
+  ]
+}

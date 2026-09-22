@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 2,
+  "settings": {
+    "retentionDays": 0
+  },
+  "items": [],
+  "purgedSessionIds": [
+    "session-ab11ff70-7fc4-4600-84aa-4573442d559d",
+    "session-abb9f22c-5158-40bc-beed-1b2de93d4827",
+    "session-44de2a58-301d-4266-884d-44d450869ef2",
+    "session-ee555f87-8430-420e-97ea-c2ae2e86bca8",
+    "session-557c50ba-0ed9-44b3-bae6-190311b89221",
+    "session-0a577c7b-ebd3-436d-b1e6-2a6e1c4b549d",
+    "session-d8864f73-e333-4a00-8dc6-4a17a2faf017",
+    "session-0df545f0-0554-411c-bac6-352b2cf5632d",
+    "session-5f6e5cd4-7830-4d4a-9743-ddf6b3bbe58a",
+    "session-cb104231-b480-478b-8ced-87f450794116",
+    "session-e762e21d-dd35-4507-bd99-044110bd0817"
+  ]
+}

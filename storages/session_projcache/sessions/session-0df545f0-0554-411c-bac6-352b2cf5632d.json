@@ -1,0 +1,440 @@
+{
+  "version": 7,
+  "record": {
+    "identity": {
+      "formatVersion": 3,
+      "createdAt": 1789980610644,
+      "cwd": "D:\\project13_v4",
+      "isSeeded": false,
+      "inheritedEventCount": 0
+    },
+    "rows": {
+      "title": {
+        "ver": 1,
+        "seq": 112,
+        "val": "你好"
+      },
+      "titleInput": {
+        "ver": 3,
+        "seq": 112,
+        "val": {
+          "first": {
+            "seq": 8,
+            "text": "你好"
+          },
+          "count": 3,
+          "lastSeq": 103
+        }
+      },
+      "llmRetry": {
+        "ver": 1,
+        "seq": 112,
+        "val": {}
+      },
+      "sandboxMode": {
+        "ver": 1,
+        "seq": 112,
+        "val": "workspace-write"
+      },
+      "goal": {
+        "ver": 6,
+        "seq": 112,
+        "val": {
+          "current": null,
+          "seenGoalIds": [],
+          "failure": null
+        }
+      },
+      "tokenUsage": {
+        "ver": 2,
+        "seq": 112,
+        "val": {
+          "totals": {
+            "uncachedInputTokens": 22886,
+            "outputTokens": 6061,
+            "cacheReadTokens": 201600,
+            "cacheWriteTokens": 0
+          },
+          "last": {
+            "turn": 3,
+            "step": 2,
+            "buckets": {
+              "uncachedInputTokens": 2524,
+              "outputTokens": 2460,
+              "cacheReadTokens": 23808,
+              "cacheWriteTokens": 0
+            }
+          }
+        }
+      },
+      "contextPressure": {
+        "ver": 4,
+        "seq": 112,
+        "val": {
+          "surfaceTokens": 17611,
+          "contextWindow": 1000000,
+          "pressureTokens": 26332,
+          "sampledSurfaceTokens": 15762
+        }
+      },
+      "contextBreakdown": {
+        "ver": 4,
+        "seq": 112,
+        "val": {
+          "nodes": [
+            {
+              "seq": 7,
+              "heuristicTokens": 1762,
+              "system": true
+            },
+            {
+              "seq": 8,
+              "heuristicTokens": 9,
+              "system": false
+            },
+            {
+              "seq": 9,
+              "heuristicTokens": 123,
+              "system": false
+            },
+            {
+              "seq": 14,
+              "heuristicTokens": 42,
+              "system": false
+            },
+            {
+              "seq": 23,
+              "heuristicTokens": 24,
+              "system": false
+            },
+            {
+              "seq": 25,
+              "heuristicTokens": 145,
+              "system": false
+            },
+            {
+              "seq": 27,
+              "heuristicTokens": 16,
+              "system": false
+            },
+            {
+              "seq": 29,
+              "heuristicTokens": 16,
+              "system": false
+            },
+            {
+              "seq": 32,
+              "heuristicTokens": 149,
+              "system": false
+            },
+            {
+              "seq": 34,
+              "heuristicTokens": 86,
+              "system": false
+            },
+            {
+              "seq": 36,
+              "heuristicTokens": 19,
+              "system": false
+            },
+            {
+              "seq": 39,
+              "heuristicTokens": 121,
+              "system": false
+            },
+            {
+              "seq": 41,
+              "heuristicTokens": 84,
+              "system": false
+            },
+            {
+              "seq": 43,
+              "heuristicTokens": 16,
+              "system": false
+            },
+            {
+              "seq": 46,
+              "heuristicTokens": 79,
+              "system": false
+            },
+            {
+              "seq": 49,
+              "heuristicTokens": 1901,
+              "system": false
+            },
+            {
+              "seq": 50,
+              "heuristicTokens": 2526,
+              "system": false
+            },
+            {
+              "seq": 53,
+              "heuristicTokens": 182,
+              "system": false
+            },
+            {
+              "seq": 55,
+              "heuristicTokens": 15,
+              "system": false
+            },
+            {
+              "seq": 57,
+              "heuristicTokens": 220,
+              "system": false
+            },
+            {
+              "seq": 60,
+              "heuristicTokens": 202,
+              "system": false
+            },
+            {
+              "seq": 62,
+              "heuristicTokens": 83,
+              "system": false
+            },
+            {
+              "seq": 64,
+              "heuristicTokens": 157,
+              "system": false
+            },
+            {
+              "seq": 67,
+              "heuristicTokens": 196,
+              "system": false
+            },
+            {
+              "seq": 69,
+              "heuristicTokens": 15,
+              "system": false
+            },
+            {
+              "seq": 71,
+              "heuristicTokens": 384,
+              "system": false
+            },
+            {
+              "seq": 74,
+              "heuristicTokens": 225,
+              "system": false
+            },
+            {
+              "seq": 76,
+              "heuristicTokens": 906,
+              "system": false
+            },
+            {
+              "seq": 78,
+              "heuristicTokens": 468,
+              "system": false
+            },
+            {
+              "seq": 81,
+              "heuristicTokens": 165,
+              "system": false
+            },
+            {
+              "seq": 83,
+              "heuristicTokens": 545,
+              "system": false
+            },
+            {
+              "seq": 85,
+              "heuristicTokens": 316,
+              "system": false
+            },
+            {
+              "seq": 88,
+              "heuristicTokens": 164,
+              "system": false
+            },
+            {
+              "seq": 90,
+              "heuristicTokens": 725,
+              "system": false
+            },
+            {
+              "seq": 92,
+              "heuristicTokens": 1236,
+              "system": false
+            },
+            {
+              "seq": 95,
+              "heuristicTokens": 479,
+              "system": false
+            },
+            {
+              "seq": 103,
+              "heuristicTokens": 26,
+              "system": false
+            },
+            {
+              "seq": 105,
+              "heuristicTokens": 41,
+              "system": false
+            },
+            {
+              "seq": 107,
+              "heuristicTokens": 1894,
+              "system": false
+            },
+            {
+              "seq": 110,
+              "heuristicTokens": 1849,
+              "system": false
+            }
+          ],
+          "breakdown": {
+            "systemTokens": 1762,
+            "toolsTokens": 7127,
+            "messageTokens": 15849
+          }
+        }
+      },
+      "turnBoundary": {
+        "ver": 2,
+        "seq": 112,
+        "val": {
+          "openTurnStartSeq": null,
+          "lastStepStartSeq": 109,
+          "lastStepBoundary": {
+            "kind": "end",
+            "seq": 111
+          },
+          "lastTurn": 3
+        }
+      },
+      "sessionStats": {
+        "ver": 1,
+        "seq": 112,
+        "val": {
+          "turns": 3,
+          "steps": 14,
+          "llmMs": 28554,
+          "toolMs": 10575,
+          "ttftMs": 8537,
+          "ttftSteps": 14,
+          "decodeMs": 20017,
+          "decodeTokens": 6061,
+          "lastTurn": 3,
+          "openStep": null,
+          "pendingCalls": {}
+        }
+      },
+      "turnOutline": {
+        "ver": 2,
+        "seq": 112,
+        "val": {
+          "turns": [
+            {
+              "turn": 1,
+              "seq": 4,
+              "prompt": "你好",
+              "response": "你好！我是 DeepSeek Harness 的编码助手。 当前工作目录是 `D:\\project13_v4`。有什么可以帮你的吗？比如： - 查看/梳理这个项目的结构 - 阅读并解释代码 - 修改、修复或新增功能 - 运行测试、排查报错…"
+            },
+            {
+              "turn": 2,
+              "seq": 20,
+              "prompt": "transport failure for /dsh-session-repair/inspect…",
+              "response": "诊断完成。我把结论说清楚。 ## 这是什么 `dsh-session-repair` 是你装在 web profile 里的**第三方插件**([Zn-Dk/dsh-session-repair](https://github.com/Z…"
+            },
+            {
+              "turn": 3,
+              "seq": 100,
+              "prompt": "请把 D:\\project13_v4\\scripts\\scr_agility_dash\\scr_a…",
+              "response": "已读取 `D:\\project13_v4\\scripts\\scr_agility_dash\\scr_agility_dash.gml`(共 171 行)。以下是完整内容: ```gml // scr_agility_dash.gml //…"
+            }
+          ],
+          "draft": ""
+        }
+      },
+      "agentPreset": {
+        "ver": 1,
+        "seq": 112,
+        "val": "standard"
+      },
+      "subagentCatalog": {
+        "ver": 2,
+        "seq": 112,
+        "val": {
+          "inheritedEventCount": 0
+        }
+      },
+      "subagentTiming": {
+        "ver": 2,
+        "seq": 112,
+        "val": {
+          "descriptorSeen": false,
+          "settledMs": 0
+        }
+      },
+      "subagent": {
+        "ver": 2,
+        "seq": 112,
+        "val": {}
+      },
+      "permissions": {
+        "ver": 2,
+        "seq": 112,
+        "val": {
+          "preset": "workspace-write",
+          "sandbox": "workspace-write",
+          "approval": "ask",
+          "seeded": true
+        }
+      },
+      "modelSelection": {
+        "ver": 2,
+        "seq": 112,
+        "val": {
+          "lastUsed": {
+            "provider": "deepseek-official",
+            "model": "deepseek-flash",
+            "reasoningEffort": "off"
+          },
+          "pending": null
+        }
+      },
+      "sessionListMetadata": {
+        "ver": 1,
+        "seq": 112,
+        "val": {
+          "blank": false,
+          "lastPromptAt": 1789982847084
+        }
+      },
+      "imageLimits": {
+        "ver": 1,
+        "seq": 112,
+        "val": null
+      },
+      "todos": {
+        "ver": 2,
+        "seq": 112,
+        "val": null
+      },
+      "plan": {
+        "ver": 3,
+        "seq": 112,
+        "val": {
+          "active": false,
+          "wanted": null,
+          "running": null,
+          "activeAtLastHeader": false
+        }
+      },
+      "subagentModelSelectionPolicy": {
+        "ver": 1,
+        "seq": 112,
+        "val": null
+      },
+      "inbox": {
+        "ver": 1,
+        "seq": 112,
+        "val": {
+          "next-turn": [],
+          "next-step": []
+        }
+      }
+    }
+  }
+}
