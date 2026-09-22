@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_slash_scale",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_slash_scale",
+  "parent":{
+    "name":"提示&界面辅助",
+    "path":"folders/脚本组/通用工具/提示&界面辅助.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

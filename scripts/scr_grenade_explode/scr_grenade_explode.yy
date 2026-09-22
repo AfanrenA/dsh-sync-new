@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_grenade_explode",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_grenade_explode",
+  "parent":{
+    "name":"榴弹炮插件",
+    "path":"folders/脚本组/武技/榴弹炮插件.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

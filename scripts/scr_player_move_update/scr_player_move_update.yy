@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_player_move_update",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_player_move_update",
+  "parent":{
+    "name":"玩家",
+    "path":"folders/脚本组/角色/玩家.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

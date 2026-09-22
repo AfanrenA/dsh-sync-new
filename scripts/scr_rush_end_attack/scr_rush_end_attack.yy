@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_rush_end_attack",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_rush_end_attack",
+  "parent":{
+    "name":"技能",
+    "path":"folders/脚本组/武技/技能.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

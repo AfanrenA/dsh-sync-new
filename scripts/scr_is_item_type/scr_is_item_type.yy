@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_is_item_type",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_is_item_type",
+  "parent":{
+    "name":"数据辅助",
+    "path":"folders/脚本组/通用工具/数据辅助.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

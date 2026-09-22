@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_factory_relic_create",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_factory_relic_create",
+  "parent":{
+    "name":"遗物",
+    "path":"folders/脚本组/工厂/遗物.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

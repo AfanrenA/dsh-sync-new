@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_explosion_smoke",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_explosion_smoke",
+  "parent":{
+    "name":"特效",
+    "path":"folders/脚本组/特效.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
