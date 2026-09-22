@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_enemy_create_weapon",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_enemy_create_weapon",
+  "parent":{
+    "name":"characters",
+    "path":"folders/04_Systems_功能系统/characters.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

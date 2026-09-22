@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_debug_draw_collision",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_debug_draw_collision",
+  "parent":{
+    "name":"collision",
+    "path":"folders/04_Systems_功能系统/collision.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

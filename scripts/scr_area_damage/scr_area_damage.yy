@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_area_damage",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_area_damage",
+  "parent":{
+    "name":"weapon",
+    "path":"folders/04_Systems_功能系统/weapon.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

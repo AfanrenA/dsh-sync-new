@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"save_player",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"save_player",
+  "parent":{
+    "name":"角色",
+    "path":"folders/05_Data_数据配置/角色.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

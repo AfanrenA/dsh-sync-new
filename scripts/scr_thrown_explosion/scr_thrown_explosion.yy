@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_thrown_explosion",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_thrown_explosion",
+  "parent":{
+    "name":"projectile",
+    "path":"folders/04_Systems_功能系统/hitbox/projectile.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

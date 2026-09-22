@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_attack_ranged",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_attack_ranged",
+  "parent":{
+    "name":"武器相关脚本",
+    "path":"folders/05_Data_数据配置/武器相关脚本.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

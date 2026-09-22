@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_chest_open",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_chest_open",
+  "parent":{
+    "name":"chest",
+    "path":"folders/04_Systems_功能系统/chest.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

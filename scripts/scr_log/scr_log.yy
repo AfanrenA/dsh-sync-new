@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_log",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_log",
+  "parent":{
+    "name":"00_System_核心系统",
+    "path":"folders/00_System_核心系统.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_weapon_factory",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_weapon_factory",
+  "parent":{
+    "name":"weapon",
+    "path":"folders/04_Systems_功能系统/weapon.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

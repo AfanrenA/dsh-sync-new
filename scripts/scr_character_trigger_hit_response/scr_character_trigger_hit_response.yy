@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_character_trigger_hit_response",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_character_trigger_hit_response",
+  "parent":{
+    "name":"characters",
+    "path":"folders/04_Systems_功能系统/characters.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

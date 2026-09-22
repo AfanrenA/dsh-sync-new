@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"data_chest",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"data_chest",
+  "parent":{
+    "name":"宝箱",
+    "path":"folders/05_Data_数据配置/宝箱.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

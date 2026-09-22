@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_push_entity",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_push_entity",
+  "parent":{
+    "name":"collision",
+    "path":"folders/04_Systems_功能系统/collision.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

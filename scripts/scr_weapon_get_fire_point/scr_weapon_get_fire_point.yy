@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_weapon_get_fire_point",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_weapon_get_fire_point",
+  "parent":{
+    "name":"firepoint",
+    "path":"folders/04_Systems_功能系统/firepoint.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

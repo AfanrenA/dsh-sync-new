@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_projectile_gravity",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_projectile_gravity",
+  "parent":{
+    "name":"projectile",
+    "path":"folders/04_Systems_功能系统/hitbox/projectile.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

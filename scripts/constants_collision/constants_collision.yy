@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"constants_collision",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"constants_collision",
+  "parent":{
+    "name":"collision",
+    "path":"folders/04_Systems_功能系统/collision.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

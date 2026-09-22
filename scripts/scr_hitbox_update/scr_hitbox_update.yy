@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_hitbox_update",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_hitbox_update",
+  "parent":{
+    "name":"hitbox",
+    "path":"folders/04_Systems_功能系统/hitbox.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

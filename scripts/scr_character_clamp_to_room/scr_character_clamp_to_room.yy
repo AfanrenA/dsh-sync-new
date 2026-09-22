@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_character_clamp_to_room",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_character_clamp_to_room",
+  "parent":{
+    "name":"characters",
+    "path":"folders/04_Systems_功能系统/characters.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

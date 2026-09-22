@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_enemy_init",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_enemy_init",
+  "parent":{
+    "name":"角色",
+    "path":"folders/05_Data_数据配置/角色.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

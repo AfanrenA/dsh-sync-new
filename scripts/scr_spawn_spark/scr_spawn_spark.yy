@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_spawn_spark",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_spawn_spark",
+  "parent":{
+    "name":"粒子&特效",
+    "path":"folders/06_Content_资源文件/粒子&特效.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

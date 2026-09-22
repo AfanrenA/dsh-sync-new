@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"draw_arc",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"draw_arc",
+  "parent":{
+    "name":"UI函数",
+    "path":"folders/05_Data_数据配置/UI函数.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
