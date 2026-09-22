@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"data_skill",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"data_skill",
+  "parent":{
+    "name":"技能数据表",
+    "path":"folders/脚本组/数据表/技能数据表.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

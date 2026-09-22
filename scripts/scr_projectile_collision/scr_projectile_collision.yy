@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_projectile_collision",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_projectile_collision",
+  "parent":{
+    "name":"飞行物",
+    "path":"folders/脚本组/飞行物.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

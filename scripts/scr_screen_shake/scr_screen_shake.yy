@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_screen_shake",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_screen_shake",
+  "parent":{
+    "name":"全局UI",
+    "path":"folders/脚本组/UI/全局UI.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

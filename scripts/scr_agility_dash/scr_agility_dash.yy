@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_agility_dash",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_agility_dash",
+  "parent":{
+    "name":"闪避",
+    "path":"folders/脚本组/身法/闪避.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

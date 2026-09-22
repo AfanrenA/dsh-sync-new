@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"data_player",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"data_player",
+  "parent":{
+    "name":"玩家数据表",
+    "path":"folders/脚本组/数据表/玩家数据表.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

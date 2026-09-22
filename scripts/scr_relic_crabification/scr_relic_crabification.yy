@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_relic_crabification",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_relic_crabification",
+  "parent":{
+    "name":"遗物",
+    "path":"folders/脚本组/遗物.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

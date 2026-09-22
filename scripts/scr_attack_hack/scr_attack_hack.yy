@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_attack_hack",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_attack_hack",
+  "parent":{
+    "name":"武器攻击",
+    "path":"folders/脚本组/战斗/武器攻击.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

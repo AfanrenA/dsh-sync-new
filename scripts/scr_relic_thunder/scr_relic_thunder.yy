@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_relic_thunder",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_relic_thunder",
+  "parent":{
+    "name":"遗物",
+    "path":"folders/脚本组/遗物.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
