@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_factory_enemy_init",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_factory_enemy_init",
+  "parent":{
+    "name":"敌人",
+    "path":"folders/脚本组/工厂/敌人.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

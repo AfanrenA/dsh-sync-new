@@ -1,0 +1,9 @@
+snapshot_sprite = sprite_index;
+snapshot_index  = 0;
+snapshot_xscale = 1;
+snapshot_yscale = 1;
+snapshot_angle  = 0;
+image_alpha     = 0.7;        // 本体透明度
+life            = 20;
+life_max        = 20;
+outline_color   = c_white;    // 品质色（由 scr_agility_dash 赋）

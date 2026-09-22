@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_enemy_state_charging",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_enemy_state_charging",
+  "parent":{
+    "name":"AI",
+    "path":"folders/脚本组/角色/敌人/AI.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

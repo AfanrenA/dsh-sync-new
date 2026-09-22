@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_factory_create",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_factory_create",
+  "parent":{
+    "name":"工厂",
+    "path":"folders/脚本组/工厂.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
