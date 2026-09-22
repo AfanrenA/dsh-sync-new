@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_item_pickup_agility",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_item_pickup_agility",
+  "parent":{
+    "name":"背包&拾取&丢弃",
+    "path":"folders/脚本组/背包&拾取&丢弃.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

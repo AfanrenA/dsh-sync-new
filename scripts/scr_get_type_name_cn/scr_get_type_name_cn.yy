@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_get_type_name_cn",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_get_type_name_cn",
+  "parent":{
+    "name":"颜色&名称&显示",
+    "path":"folders/脚本组/通用工具/颜色&名称&显示.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

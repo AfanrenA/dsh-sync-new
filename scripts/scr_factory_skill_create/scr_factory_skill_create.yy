@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_factory_skill_create",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_factory_skill_create",
+  "parent":{
+    "name":"技能",
+    "path":"folders/脚本组/工厂/技能.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

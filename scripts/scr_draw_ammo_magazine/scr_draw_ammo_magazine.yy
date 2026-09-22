@@ -1,0 +1,16 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_draw_ammo_magazine",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_draw_ammo_magazine",
+  "parent":{
+    "name":"全局UI",
+    "path":"folders/脚本组/UI/全局UI.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+  "tags":[
+    "弹匣",
+  ],
+}

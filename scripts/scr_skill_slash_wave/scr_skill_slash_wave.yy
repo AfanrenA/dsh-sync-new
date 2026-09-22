@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_skill_slash_wave",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_skill_slash_wave",
+  "parent":{
+    "name":"技能",
+    "path":"folders/脚本组/武技/技能.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

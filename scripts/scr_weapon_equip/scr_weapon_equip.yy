@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_weapon_equip",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_weapon_equip",
+  "parent":{
+    "name":"背包&拾取&丢弃",
+    "path":"folders/脚本组/背包&拾取&丢弃.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

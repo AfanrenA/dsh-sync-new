@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_weapon_aim_update",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_weapon_aim_update",
+  "parent":{
+    "name":"武器画面",
+    "path":"folders/脚本组/武器/武器画面.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

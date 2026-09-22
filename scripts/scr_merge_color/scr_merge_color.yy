@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_merge_color",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_merge_color",
+  "parent":{
+    "name":"颜色&名称&显示",
+    "path":"folders/脚本组/通用工具/颜色&名称&显示.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

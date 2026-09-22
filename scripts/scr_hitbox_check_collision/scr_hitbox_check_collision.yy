@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_hitbox_check_collision",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_hitbox_check_collision",
+  "parent":{
+    "name":"碰撞盒",
+    "path":"folders/脚本组/武器/碰撞盒.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
