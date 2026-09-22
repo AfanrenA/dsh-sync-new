@@ -6,7 +6,8 @@
   "global": {
     "initialized": true,
     "workspaceIds": [
-      "a9900854-3825-44a1-b7bc-49efd5e57e81"
+      "a9900854-3825-44a1-b7bc-49efd5e57e81",
+      "9ab085ff-6d4f-4f00-bd96-22917747bcc8"
     ],
     "archivedSessionIds": [
       "session-d8864f73-e333-4a00-8dc6-4a17a2faf017"
@@ -23,6 +24,15 @@
         ],
         "createdAt": "2026-09-22T05:45:53.234Z",
         "updatedAt": "2026-09-22T05:45:53.234Z"
+      },
+      "9ab085ff-6d4f-4f00-bd96-22917747bcc8": {
+        "path": "D:\\project13\\project13_V3",
+        "title": "project13_V3",
+        "sessionIds": [
+          "session-0a577c7b-ebd3-436d-b1e6-2a6e1c4b549d"
+        ],
+        "createdAt": "2026-09-22T11:01:54.730Z",
+        "updatedAt": "2026-09-22T11:01:54.730Z"
       }
     }
   }
