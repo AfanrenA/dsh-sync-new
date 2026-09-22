@@ -6,16 +6,16 @@
       "bundles": [
         "@deepseek-ai/dsh-base",
         "@deepseek-ai/dsh-web-app",
+        "dsh-github-sync",
         "dsh-unarchive",
-        "dsh-sessions-manager",
-        "dsh-sync-plugin"
+        "dsh-sessions-manager"
       ],
       "patchReload": "live"
     }
   },
   "dependencies": {
+    "dsh-github-sync": "github:minghuo/dsh-github-sync",
     "dsh-sessions-manager": "github:TOBYCAI/dsh-sessions-manager",
-    "dsh-sync-plugin": "^0.12.4",
     "dsh-unarchive": "^0.1.9"
   }
 }

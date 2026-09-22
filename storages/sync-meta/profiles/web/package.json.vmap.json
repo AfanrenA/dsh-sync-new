@@ -3,12 +3,20 @@
   "path": "profiles/web/package.json",
   "fields": {
     "dependencies.dsh-github-sync": {
+      "t": 2,
+      "actor": "77157d6c-1e09-47c7-9d83-035dcd013ebc"
+    },
+    "dependencies.dsh-sessions-manager": {
       "t": 1,
-      "actor": "11ab1c64-de5f-4e58-8f00-c71edd32fcf3"
+      "actor": "77157d6c-1e09-47c7-9d83-035dcd013ebc"
+    },
+    "dependencies.dsh-unarchive": {
+      "t": 1,
+      "actor": "77157d6c-1e09-47c7-9d83-035dcd013ebc"
     },
     "dsh.profile.bundles": {
-      "t": 1,
-      "actor": "11ab1c64-de5f-4e58-8f00-c71edd32fcf3"
+      "t": 2,
+      "actor": "77157d6c-1e09-47c7-9d83-035dcd013ebc"
     }
   }
 }

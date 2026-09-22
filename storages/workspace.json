@@ -6,33 +6,20 @@
   "global": {
     "initialized": true,
     "workspaceIds": [
-      "a9900854-3825-44a1-b7bc-49efd5e57e81",
-      "9ab085ff-6d4f-4f00-bd96-22917747bcc8"
+      "4af30ee4-d833-4721-9246-7d6ebb3ec744"
     ],
-    "archivedSessionIds": [
-      "session-d8864f73-e333-4a00-8dc6-4a17a2faf017"
-    ]
+    "archivedSessionIds": []
   },
   "tables": {
     "workspaces": {
-      "a9900854-3825-44a1-b7bc-49efd5e57e81": {
+      "4af30ee4-d833-4721-9246-7d6ebb3ec744": {
         "path": "D:\\project13_v4",
         "title": "project13_v4",
         "sessionIds": [
-          "session-e762e21d-dd35-4507-bd99-044110bd0817",
-          "session-cb104231-b480-478b-8ced-87f450794116"
+          "session-ec4131d6-f274-43ab-8cfa-19b3fb07d5ab"
         ],
-        "createdAt": "2026-09-22T05:45:53.234Z",
-        "updatedAt": "2026-09-22T05:45:53.234Z"
-      },
-      "9ab085ff-6d4f-4f00-bd96-22917747bcc8": {
-        "path": "D:\\project13\\project13_V3",
-        "title": "project13_V3",
-        "sessionIds": [
-          "session-0a577c7b-ebd3-436d-b1e6-2a6e1c4b549d"
-        ],
-        "createdAt": "2026-09-22T11:01:54.730Z",
-        "updatedAt": "2026-09-22T11:01:54.730Z"
+        "createdAt": "2026-09-22T06:04:11.736Z",
+        "updatedAt": "2026-09-22T06:04:11.788Z"
       }
     }
   }

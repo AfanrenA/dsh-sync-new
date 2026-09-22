@@ -8,12 +8,12 @@ importers:
 
   .:
     dependencies:
+      dsh-github-sync:
+        specifier: github:minghuo/dsh-github-sync
+        version: https://codeload.github.com/minghuo/dsh-github-sync/tar.gz/905b02c4cc6cc987b7583be2070eed71d57aa998
       dsh-sessions-manager:
         specifier: github:TOBYCAI/dsh-sessions-manager
         version: https://codeload.github.com/TOBYCAI/dsh-sessions-manager/tar.gz/160a62d6f172275f6869a362c5bdd7efd13b4424
-      dsh-sync-plugin:
-        specifier: ^0.12.4
-        version: 0.12.4
       dsh-unarchive:
         specifier: ^0.1.9
         version: 0.1.9(@deepseek-ai/schemastery@3.18.2)
@@ -29,6 +29,11 @@ packages:
   '@standard-schema/spec@1.1.0':
     resolution: {integrity: sha512-l2aFy5jALhniG5HgqrD6jXLi/rUWrKvqN/qJx6yoJsgKhblVd+iqqU4RCXavm/jPityDo5TCvKMnpjKnOriy0w==}
 
+  dsh-github-sync@https://codeload.github.com/minghuo/dsh-github-sync/tar.gz/905b02c4cc6cc987b7583be2070eed71d57aa998:
+    resolution: {gitHosted: true, integrity: sha512-rD65A5E3XgfMYwWs+9JuAMmH1/jo+vgiZ5DEkzRXTOo70HeS9WYpLzrXlpvYw038fjUsySjothPJ9cZLHAYJkw==, tarball: https://codeload.github.com/minghuo/dsh-github-sync/tar.gz/905b02c4cc6cc987b7583be2070eed71d57aa998}
+    version: 0.4.3
+    engines: {node: '>=22.5'}
+
   dsh-sessions-manager@https://codeload.github.com/TOBYCAI/dsh-sessions-manager/tar.gz/160a62d6f172275f6869a362c5bdd7efd13b4424:
     resolution: {gitHosted: true, integrity: sha512-xR2IGkEkDjw4F/XYR4locLZkL1lcLnlmcj+bR0o9hl5zlOznsW+9D6fsDBTEVMn1cSiCIdcE7zHQ+XFuvbnokw==, tarball: https://codeload.github.com/TOBYCAI/dsh-sessions-manager/tar.gz/160a62d6f172275f6869a362c5bdd7efd13b4424}
     version: 3.7.1
@@ -43,10 +48,6 @@ packages:
       '@deepseek-ai/dsh-storage-domain': ^0.1.0-rc.6
       '@deepseek-ai/dsh-workspace': ^0.1.0-rc.6
       react: ^18.2.0
-
-  dsh-sync-plugin@0.12.4:
-    resolution: {integrity: sha512-ghL1Ef1dQP2xxt3zx7JtBiHnN81HPw1M7nKMivRMMDldO6locFb8uGuAiLjUgdsv1ogJcTiX1Oxlg6qVay/jVA==}
-    engines: {node: '>=20'}
 
   dsh-unarchive@0.1.9:
     resolution: {integrity: sha512-mKbAvQaIWnbJuXXbXV0I7iSR12mfslAxhE3919osXtcEQuKZHX4A4R2thdMU0rVw6And2yeyLVsxqxBhvzrN8Q==}
@@ -65,9 +66,11 @@ snapshots:
 
   '@standard-schema/spec@1.1.0': {}
 
-  dsh-sessions-manager@https://codeload.github.com/TOBYCAI/dsh-sessions-manager/tar.gz/160a62d6f172275f6869a362c5bdd7efd13b4424: {}
+  dsh-github-sync@https://codeload.github.com/minghuo/dsh-github-sync/tar.gz/905b02c4cc6cc987b7583be2070eed71d57aa998:
+    dependencies:
+      '@deepseek-ai/schemastery': 3.18.2
 
-  dsh-sync-plugin@0.12.4: {}
+  dsh-sessions-manager@https://codeload.github.com/TOBYCAI/dsh-sessions-manager/tar.gz/160a62d6f172275f6869a362c5bdd7efd13b4424: {}
 
   dsh-unarchive@0.1.9(@deepseek-ai/schemastery@3.18.2):
     dependencies:
