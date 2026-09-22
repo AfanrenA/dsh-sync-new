@@ -1,0 +1,23 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: false
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    dependencies:
+      dsh-sync-plugin:
+        specifier: ^0.12.4
+        version: 0.12.4
+
+packages:
+
+  dsh-sync-plugin@0.12.4:
+    resolution: {integrity: sha512-ghL1Ef1dQP2xxt3zx7JtBiHnN81HPw1M7nKMivRMMDldO6locFb8uGuAiLjUgdsv1ogJcTiX1Oxlg6qVay/jVA==}
+    engines: {node: '>=20'}
+
+snapshots:
+
+  dsh-sync-plugin@0.12.4: {}

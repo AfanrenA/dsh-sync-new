@@ -1,0 +1,14 @@
+{
+  "formatVersion": 3,
+  "records": [
+    {
+      "scope": "14d89e1fb20e1fd88c69b6bbfd94bc983398dc8ef07ed9f49b3e997242aa210a",
+      "attachmentId": "sha256:1d5c3b63524d541ed43e57ce47dc2bc156696effd9a57467e17a2ce9505a567c",
+      "variantId": "sha256:566c1f677c3d33cf83a131619b5dff453252a3b1212bc632af1e770eff8d4db7",
+      "fileId": "file-api-6aaa6568-c64c-466c-80af-51b442721fb2",
+      "bytes": 53682,
+      "createdAt": 1789891557000,
+      "expiresAt": 1790496357000
+    }
+  ]
+}

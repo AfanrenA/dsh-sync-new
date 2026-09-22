@@ -1,0 +1,22 @@
+{
+  "format": 1,
+  "path": "settings.yaml",
+  "fields": {
+    "ui-onboarding.welcomeNoticeVersion": {
+      "t": 1,
+      "actor": "77157d6c-1e09-47c7-9d83-035dcd013ebc"
+    },
+    "agent-default-model.provider": {
+      "t": 1,
+      "actor": "77157d6c-1e09-47c7-9d83-035dcd013ebc"
+    },
+    "agent-default-model.model": {
+      "t": 1,
+      "actor": "77157d6c-1e09-47c7-9d83-035dcd013ebc"
+    },
+    "agent-default-model.reasoningEffort": {
+      "t": 1,
+      "actor": "77157d6c-1e09-47c7-9d83-035dcd013ebc"
+    }
+  }
+}

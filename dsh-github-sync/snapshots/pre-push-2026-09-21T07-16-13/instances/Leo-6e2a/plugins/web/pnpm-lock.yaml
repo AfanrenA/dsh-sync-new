@@ -1,0 +1,13 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: false
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    dependencies:
+      dsh-github-sync:
+        specifier: link:C:\Dev\dsh-github-sync
+        version: link:../../../../../Dev/dsh-github-sync

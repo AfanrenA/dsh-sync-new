@@ -1,0 +1,14 @@
+{
+  "format": 1,
+  "path": "profiles/web/package.json",
+  "fields": {
+    "dependencies.dsh-github-sync": {
+      "t": 1,
+      "actor": "11ab1c64-de5f-4e58-8f00-c71edd32fcf3"
+    },
+    "dsh.profile.bundles": {
+      "t": 1,
+      "actor": "11ab1c64-de5f-4e58-8f00-c71edd32fcf3"
+    }
+  }
+}

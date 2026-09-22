@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "instanceId": "DESKTOP-7TCEJMG-5cbc",
+  "hostname": "DESKTOP-7TCEJMG",
+  "platform": "win32",
+  "groups": {
+    "sessions": true,
+    "plugins": true,
+    "settings": false
+  },
+  "totals": {
+    "files": 7,
+    "bytes": 1223593,
+    "sessions": 3,
+    "sessionsBytes": 1219449,
+    "plugins": 4,
+    "pluginsBytes": 4144,
+    "settings": 0,
+    "settingsBytes": 0
+  },
+  "skipped": [],
+  "workspaces": [
+    {
+      "key": "--D-project13_v4--",
+      "path": "D:\\project13_v4",
+      "pathIsExact": true,
+      "sessions": 3,
+      "bytes": 1219449
+    }
+  ]
+}

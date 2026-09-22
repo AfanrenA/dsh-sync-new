@@ -1,0 +1,240 @@
+{
+  "instanceId": "Leo-6e2a",
+  "lastSyncAt": "2026-09-21T09:33:24.735Z",
+  "lastResult": {
+    "at": "2026-09-21T09:33:24.735Z",
+    "reason": "manual",
+    "durationMs": 2404,
+    "repo": "AfanrenA/dsh-sync",
+    "branch": "main",
+    "instanceId": "Leo-6e2a",
+    "pushed": false,
+    "nothingToCommit": true,
+    "commit": "c33729879d33a6b6356e8dc7df732eafb0dc9bad",
+    "created": 0,
+    "updated": 0,
+    "deleted": 0,
+    "unchanged": 7,
+    "skipped": [],
+    "bytes": 1071466,
+    "pr": null,
+    "groups": {
+      "sessions": {
+        "created": 0,
+        "updated": 0,
+        "deleted": 0,
+        "files": 2
+      },
+      "plugins": {
+        "created": 0,
+        "updated": 0,
+        "deleted": 0,
+        "files": 4
+      },
+      "settings": {
+        "created": 0,
+        "updated": 0,
+        "deleted": 0,
+        "files": 0
+      }
+    },
+    "pluginSuggestions": []
+  },
+  "history": [
+    {
+      "at": "2026-09-21T09:33:24.735Z",
+      "reason": "manual",
+      "durationMs": 2404,
+      "repo": "AfanrenA/dsh-sync",
+      "branch": "main",
+      "instanceId": "Leo-6e2a",
+      "pushed": false,
+      "nothingToCommit": true,
+      "commit": "c33729879d33a6b6356e8dc7df732eafb0dc9bad",
+      "created": 0,
+      "updated": 0,
+      "deleted": 0,
+      "unchanged": 7,
+      "skipped": [],
+      "bytes": 1071466,
+      "pr": null,
+      "groups": {
+        "sessions": {
+          "created": 0,
+          "updated": 0,
+          "deleted": 0,
+          "files": 2
+        },
+        "plugins": {
+          "created": 0,
+          "updated": 0,
+          "deleted": 0,
+          "files": 4
+        },
+        "settings": {
+          "created": 0,
+          "updated": 0,
+          "deleted": 0,
+          "files": 0
+        }
+      },
+      "pluginSuggestions": []
+    },
+    {
+      "at": "2026-09-21T09:33:15.321Z",
+      "reason": "manual",
+      "durationMs": 9520,
+      "repo": "AfanrenA/dsh-sync",
+      "branch": "main",
+      "instanceId": "Leo-6e2a",
+      "pushed": true,
+      "nothingToCommit": false,
+      "commit": "c33729879d33a6b6356e8dc7df732eafb0dc9bad",
+      "created": 0,
+      "updated": 2,
+      "deleted": 0,
+      "unchanged": 5,
+      "skipped": [],
+      "bytes": 1071466,
+      "pr": null,
+      "groups": {
+        "sessions": {
+          "created": 0,
+          "updated": 1,
+          "deleted": 0,
+          "files": 2
+        },
+        "plugins": {
+          "created": 0,
+          "updated": 0,
+          "deleted": 0,
+          "files": 4
+        },
+        "settings": {
+          "created": 0,
+          "updated": 0,
+          "deleted": 0,
+          "files": 0
+        }
+      },
+      "pluginSuggestions": []
+    },
+    {
+      "at": "2026-09-21T09:29:52.014Z",
+      "reason": "manual",
+      "durationMs": 10080,
+      "repo": "AfanrenA/dsh-sync",
+      "branch": "main",
+      "instanceId": "Leo-6e2a",
+      "pushed": true,
+      "nothingToCommit": false,
+      "commit": "40d6dd21655de3a3f2a5bee75505f8e343f991d5",
+      "created": 0,
+      "updated": 2,
+      "deleted": 0,
+      "unchanged": 5,
+      "skipped": [],
+      "bytes": 1025881,
+      "pr": null,
+      "groups": {
+        "sessions": {
+          "created": 0,
+          "updated": 1,
+          "deleted": 0,
+          "files": 2
+        },
+        "plugins": {
+          "created": 0,
+          "updated": 0,
+          "deleted": 0,
+          "files": 4
+        },
+        "settings": {
+          "created": 0,
+          "updated": 0,
+          "deleted": 0,
+          "files": 0
+        }
+      },
+      "pluginSuggestions": []
+    },
+    {
+      "at": "2026-09-21T08:38:45.548Z",
+      "reason": "manual",
+      "durationMs": 8835,
+      "repo": "AfanrenA/dsh-sync",
+      "branch": "main",
+      "instanceId": "Leo-6e2a",
+      "pushed": true,
+      "nothingToCommit": false,
+      "commit": "9da96df8f9027e6b12c32c25c66dc4b085b06d62",
+      "created": 0,
+      "updated": 2,
+      "deleted": 0,
+      "unchanged": 5,
+      "skipped": [],
+      "bytes": 901669,
+      "pr": null,
+      "groups": {
+        "sessions": {
+          "created": 0,
+          "updated": 1,
+          "deleted": 0,
+          "files": 2
+        },
+        "plugins": {
+          "created": 0,
+          "updated": 0,
+          "deleted": 0,
+          "files": 4
+        },
+        "settings": {
+          "created": 0,
+          "updated": 0,
+          "deleted": 0,
+          "files": 0
+        }
+      },
+      "pluginSuggestions": []
+    },
+    {
+      "at": "2026-09-21T07:20:49.961Z",
+      "reason": "manual",
+      "durationMs": 10784,
+      "repo": "AfanrenA/dsh-sync",
+      "branch": "main",
+      "instanceId": "Leo-6e2a",
+      "pushed": true,
+      "nothingToCommit": false,
+      "commit": "88a195b96f8a12bc0db6e2ca07408448b69704b4",
+      "created": 7,
+      "updated": 0,
+      "deleted": 0,
+      "unchanged": 0,
+      "skipped": [],
+      "bytes": 848332,
+      "pr": null,
+      "groups": {
+        "sessions": {
+          "created": 2,
+          "updated": 0,
+          "deleted": 0,
+          "files": 2
+        },
+        "plugins": {
+          "created": 4,
+          "updated": 0,
+          "deleted": 0,
+          "files": 4
+        },
+        "settings": {
+          "created": 0,
+          "updated": 0,
+          "deleted": 0,
+          "files": 0
+        }
+      },
+      "pluginSuggestions": []
+    }
+  ]
+}

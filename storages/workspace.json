@@ -1,0 +1,29 @@
+{
+  "unit": {
+    "name": "workspace",
+    "version": 2
+  },
+  "global": {
+    "initialized": true,
+    "workspaceIds": [
+      "a9900854-3825-44a1-b7bc-49efd5e57e81"
+    ],
+    "archivedSessionIds": [
+      "session-d8864f73-e333-4a00-8dc6-4a17a2faf017"
+    ]
+  },
+  "tables": {
+    "workspaces": {
+      "a9900854-3825-44a1-b7bc-49efd5e57e81": {
+        "path": "D:\\project13_v4",
+        "title": "project13_v4",
+        "sessionIds": [
+          "session-e762e21d-dd35-4507-bd99-044110bd0817",
+          "session-cb104231-b480-478b-8ced-87f450794116"
+        ],
+        "createdAt": "2026-09-22T05:45:53.234Z",
+        "updatedAt": "2026-09-22T05:45:53.234Z"
+      }
+    }
+  }
+}
